@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.mivo.app",
+      "sha256_cert_fingerprints": [
+        "34:C1:B3:60:AE:3C:89:EA:B5:55:4E:A3:0E:49:35:72:6F:56:EC:94:72:C4:4F:BE:F0:87:60:F4:2C:CD:38:1A"
+      ]
+    }
+  }
+]
